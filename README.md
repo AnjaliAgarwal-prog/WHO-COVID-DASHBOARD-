@@ -10,3 +10,4 @@
 # In Page 3: Representation of Total Vaccinations by Years and Months using Stacked Bar Chart , Count of Vaccines types used using pie Chart, Again slicer and a Action button is added .
 # Impact and Insights: a). Takes much less time to analyze the data and extract the required information by Government and Hospitals given by "WHO" in bulk, in single sight. b). User friendly because of wonderful and easy presentation.
 https://github.com/AnjaliAgarwal-prog/WHO-COVID-DASHBOARD-/blob/main/Powebi_Covid_Dashboard.pbit
+https://github.com/AnjaliAgarwal-prog/WHO-COVID-DASHBOARD-/blob/main/Screenshot%20of%20powerbi%20Dashboard.png
